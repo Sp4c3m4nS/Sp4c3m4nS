@@ -1,5 +1,5 @@
 <p align="center">
-<a href="![LinkedIn_logo_initials](https://user-images.githubusercontent.com/95195316/190578318-e4f19348-b1a3-4732-8707-0010a9a87a3e.png)">
+<a href="![LinkedIn_logo_initials](https://user-images.githubusercontent.com/95195316/190578433-85358dc3-b7bd-48d0-a4f1-cfca9ca04363.png">
   <img alt="felipe's LinkdeIN" width="50px" src="" />
 </a>
 </p>
@@ -15,8 +15,7 @@ Felipe@Github:~$ bash education.sh
 [Currently Pursuing Bachelor's in Computer Science at Michigan State University]
 Felipe@Github:~$ g++ current_job.cpp && ./a.out
 Research Assitant at the Security Network and Mobile Systems research lab at Michigan State University
-Felipe@Github:~$ cat currently_learning.txt![Uploading LinkedIn_logo_initials.png…]()
-
+Felipe@Github:~$ cat currently_learning.tx
 Mobile Systems DoS and Security
 Felipe@Github:~$ cd interests_and_skills && ls -la
 total 11235813
