@@ -7,6 +7,9 @@ Felipe@Github:~$ python3 ./from.py
 b'Rio de Janeiro (Brazil)'
 Felipe@Github:~$ bash education.sh                                                                                   
 [Currently Pursuing Bachelor's in Computer Science at Michigan State University]
+Felipe@Github:~$ g++ current_job.cpp && ./a.out
+Research Assitant at the Security Network and Mobile Systems research lab at Michigan State University
+
 ````
 
 ### ⚙️ My Most Recent Project
