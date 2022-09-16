@@ -6,7 +6,7 @@ East Lansing, MI, USA
 Felipe@Github:~$ python3 ./from.py
 b'Rio de Janeiro (Brazil)'
 Felipe@Github:~$ bash hello.sh                                                                                   
-[Currently Pursuing Bachelor's in Computer Science at Michigan State University]   
+Currently Pursuing Bachelor's in Computer Science at Michigan State University 
 ````
 
 ### ⚙️ My Most Recent Project
