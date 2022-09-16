@@ -5,7 +5,7 @@
 
 - ⚙️ I’m currently learning **DoS exploitation in Mobile Systems**
 
-- ⚙️ Ask me about **Pentesting, Network Security, and any related topic!**
+- ⚙️ Let's talk about **Pentesting, Network Security, and any related topic**, maybe we can do something together!
 
 - ⚙️ Email me at **marques6@msu.edu**
 
