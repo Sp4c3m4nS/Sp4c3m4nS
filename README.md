@@ -1,4 +1,4 @@
-<h1 align="center">Whoami? 👾</h1>
+<h1 align="center">whoami 👾</h1>
 <h3 align="center">Check some of my media</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/felipe-marques-allevato-250549220/">
