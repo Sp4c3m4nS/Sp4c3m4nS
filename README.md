@@ -1,6 +1,5 @@
 <p align="center">
-<a href="![LinkedIn_logo_initials](https://user-images.githubusercontent.com/95195316/190578318-e4f19348-b1a3-4732-8707-0010a9a87a3e.png)
-">
+<a href="![LinkedIn_logo_initials](https://user-images.githubusercontent.com/95195316/190578318-e4f19348-b1a3-4732-8707-0010a9a87a3e.png)">
   <img alt="felipe's LinkdeIN" width="50px" src="" />
 </a>
 </p>
