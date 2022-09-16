@@ -12,13 +12,16 @@ Research Assitant at the Security Network and Mobile Systems research lab at Mic
 Felipe@Github:~$ cat currently_learning.txt
 Mobile Systems DoS and Security
 Felipe@Github:~$ cd interests_and_skills && ls -la
--rwxr-xr-x 1 root   root   17640 Jan 1 02:35 Network Security
--rwxr-xr-x 1 Felipe Felipe 11234 Feb 1 19:14 Side-Channel Analysis
--rwxr-xr-x 1 root   root   21301 Mar 2 04:23 Penetration Testing
--rwxr-xr-x 1 Felipe Felipe 13241 Apr 3 09:10 Forensics
--rwxr-xr-x 1 Felipe Felipe  9832 May 5 15:45 Embedded Systems
--rwxr-xr-x 1 Felipe Felipe  7214 Jun 8 16:12 Mobile Security
-
+total 11235813
+-rwxr-xr-x 1 root   root   17640 Jan  1  2018 Network Security
+drwxrwxrwx 1 Felipe Felipe 11234 Feb  1  2021 Side-Channel Analysis
+-rwxr-xr-x 1 root   root   21301 Mar  2  2017 Penetration Testing
+drwxr-xr-x 1 Felipe Felipe 13241 Apr  3  2017 Forensics
+-rwxr-xr-x 1 Felipe Felipe  9832 Jan  5 15:45 Embedded Systems
+-rwxr-xr-x 1 Felipe Felipe  7214 Jan  8 16:12 Mobile Security
+-rwxr-xr-x 1 Felipe Felipe     1 Jul 13  2003 Hobbies.pl
+Felipe@Github:~/interests_and_skills$ perl Hobbies.pl
+["Competitive Gaming", "CTFs", "Hackathons", "Tabletop RPGs"]
 ````
 
 ### ⚙️ My Most Recent Project
