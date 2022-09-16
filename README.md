@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://user-images.githubusercontent.com/95195316/190578433-85358dc3-b7bd-48d0-a4f1-cfca9ca04363.png">
+<a href="https://user-images.githubusercontent.com/95195316/190578595-42c55eb7-375c-4e14-84d4-2dce3d8010ec.png">
   <img alt="felipe's LinkdeIN" width="50px" src="" />
 </a>
 </p>
