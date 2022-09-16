@@ -8,6 +8,6 @@
 
 - ⚙️ Let's chat about **Pentesting, Network Security, and any related topic**, maybe we can do something together!
 
-<h3 align="Left">⚙️ Contact Me </h3>
+⚙️ Contact Me
 Email me at **marques6@msu.edu**<br/>
 Check my [Linkedin](https://www.linkedin.com/in/felipe-marques-allevato-250549220/)
