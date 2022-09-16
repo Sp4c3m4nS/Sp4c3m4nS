@@ -14,12 +14,12 @@
 </p>
 
 ````console
-Felipe@Github:~$ whoami
+Felipe@Github:/USA/MI/East_Lansing$ whoami
 Felipe
-Felipe@Github:~$ pwd
-/East_Lansing/MI/USA
-Felipe@Github:~$ python3 ./from.py
-b'Rio de Janeiro (Brazil)'
+Felipe@Github:/USA/MI/East_Lansing$ pwd
+/USA/MI/East_Lansing
+Felipe@Github:/USA/MI/East_Lansing$ cd ~ && pwd
+/home/Brazil/RJ/Rio_de_Janeiro
 Felipe@Github:~$ bash education.sh                                                                                   
 [Currently Pursuing Bachelor's in Computer Science at Michigan State University]
 Felipe@Github:~$ g++ current_job.cpp && ./a.out
