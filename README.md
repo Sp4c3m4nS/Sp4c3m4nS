@@ -1,15 +1,21 @@
 ````console
 Felipe@Github:~$ whoami
 Felipe
-Felipe@Github:~$ cat located_at.txt
-East Lansing, MI, USA
+Felipe@Github:~$ pwd
+/East_Lansing/MI/USA
 Felipe@Github:~$ python3 ./from.py
 b'Rio de Janeiro (Brazil)'
 Felipe@Github:~$ bash education.sh                                                                                   
 [Currently Pursuing Bachelor's in Computer Science at Michigan State University]
 Felipe@Github:~$ g++ current_job.cpp && ./a.out
 Research Assitant at the Security Network and Mobile Systems research lab at Michigan State University
-
+Felipe@Github:~$ cat fields_of_interest.txt
+Network Security
+Mobile Security
+Penetration Testing
+Forensics
+Embedded Systems
+Side-Channel Analysis
 ````
 
 ### ⚙️ My Most Recent Project
