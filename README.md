@@ -38,7 +38,6 @@ drwxr-xr-x 1 Felipe Felipe 13241 Apr  3  2017 Forensics
 Felipe@Github:~/interests_and_skills$ perl Hobbies.pl
 ["Competitive Gaming", "CTFs", "Hackathons", "Tabletop RPGs"]
 ````
-### ⚙️ 
 
 ### ⚙️ My Most Recent Projects
 
