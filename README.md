@@ -4,7 +4,7 @@
 
 ### ⚙️ My Most Recent Project
 
-I won the Microsoft Cloud for Best Social Impact award at ShellHacks 2022 with the **[The AI Clinic](https://github.com/Y0uk1tsun3/diagnosis_app)**
+I won the "Microsoft Cloud for Best Social Impact" award at ShellHacks 2022 with the **[The AI Clinic](https://github.com/Y0uk1tsun3/diagnosis_app)**
 
 
 
