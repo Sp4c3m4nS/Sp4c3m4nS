@@ -14,7 +14,7 @@
 ````console
 Felipe@Github:~$ whoami
 Felipe
-Felipe@Github:~$ pwd
+Felipe@Github:~$pwd
 /East_Lansing/MI/USA
 Felipe@Github:~$ python3 ./from.py
 b'Rio de Janeiro (Brazil)'
