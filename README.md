@@ -1,5 +1,11 @@
-<h1 align="center">Hey! My name is Felipe 👾</h1>
-<h3 align="center">I'm a curious lover of Cybersecurity</h3>
+````
+Felipe@Github:~$ whoami
+Felipe
+Felipe@Github:~$ cat located_at.txt
+East Lansing, MI, USA
+Felipe@Github:~$ python3 ./from.py
+b'Rio de Janeiro (Brazil)'
+````
 
 ### ⚙️ My Most Recent Project
 
