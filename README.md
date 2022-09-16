@@ -1,4 +1,4 @@
-<h1 align="center">Hey! My name is **Felipe** 👾</h1>
+<h1 align="center">Hey! My name is Felipe 👾</h1>
 <h3 align="center">I'm a curious lover of Cybersecurity</h3>
 
 ### ⚙️ My Most Recent Project
