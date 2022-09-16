@@ -1,12 +1,12 @@
 ````shell
-Felipe@Github:~$ whoami
-  Felipe
-Felipe@Github:~$ cat located_at.txt
-  East Lansing, MI, USA
-Felipe@Github:~$ python3 ./from.py
-  b'Rio de Janeiro (Brazil)'
-Felipe@Github:~$ bash hello.sh                                                                                   
-  Currently Pursuing Bachelors in Computer Science at Michigan State University 
+
+foo/bar/dir:~ (main) $ cargo run
+    Finished dev [unoptimized + debuginfo] target(s) in 0.06s
+     Running `target/debug/rust-bin`
+error getting string?? "foo/bar/string"
+
+foo@coolUseri:~ (main) $ cargo run
+    Finished dev [unoptimized + debuginfo] target(s) in 0.06s
 ````
 
 ### ⚙️ My Most Recent Project
