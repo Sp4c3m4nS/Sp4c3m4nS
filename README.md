@@ -1,4 +1,4 @@
-<h1 align="center">Hey! My name Felipe 👾</h1>
+<h1 align="center">Hey! My name is Felipe 👾</h1>
 <h3 align="center">A curious lover of Cybersecurity</h3>
 
 - ⚙️ My Most Recent Project [The AI Clinic](https://github.com/Y0uk1tsun3/diagnosis_app)
