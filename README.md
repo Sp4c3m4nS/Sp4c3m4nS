@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/felipe-marques-allevato-250549220/">
+<a href="![LinkedIn_logo_initials](https://user-images.githubusercontent.com/95195316/190578318-e4f19348-b1a3-4732-8707-0010a9a87a3e.png)
+">
   <img alt="felipe's LinkdeIN" width="50px" src="" />
 </a>
 </p>
@@ -15,7 +16,8 @@ Felipe@Github:~$ bash education.sh
 [Currently Pursuing Bachelor's in Computer Science at Michigan State University]
 Felipe@Github:~$ g++ current_job.cpp && ./a.out
 Research Assitant at the Security Network and Mobile Systems research lab at Michigan State University
-Felipe@Github:~$ cat currently_learning.txt
+Felipe@Github:~$ cat currently_learning.txt![Uploading LinkedIn_logo_initials.png…]()
+
 Mobile Systems DoS and Security
 Felipe@Github:~$ cd interests_and_skills && ls -la
 total 11235813
