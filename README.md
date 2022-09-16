@@ -24,7 +24,7 @@ Felipe@Github:~$ bash education.sh
 [Currently Pursuing Bachelor's in Computer Science at Michigan State University]
 Felipe@Github:~$ g++ current_job.cpp && ./a.out
 Research Assitant at the Security Network and Mobile Systems research lab at Michigan State University
-Felipe@Github:~$ cat currently_learning.tx
+Felipe@Github:~$ cat currently_learning.txt
 Mobile Systems DoS and Security
 Felipe@Github:~$ cd interests_and_skills && ls -la
 total 11235813
