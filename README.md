@@ -1,4 +1,4 @@
-````
+````shell
 Felipe@Github:~$ whoami
 Felipe
 Felipe@Github:~$ cat located_at.txt
