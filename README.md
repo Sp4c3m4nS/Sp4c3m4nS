@@ -1,5 +1,6 @@
 ````shell
-Felipe@Github:~ (main) $ whoami
+foo/bar/dir:~ (main) $ cargo run    Finished dev [unoptimized + debuginfo] target(s) in 0.06s     Running `target/debug/rust-bin`error getting string?? "foo/bar/string"foo@coolUseri:~ (main) $ cargo run    Finished dev [unoptimized + debuginfo] target(s) in 0.06s
+Felipe@Github:~$ whoami
 Felipe
 Felipe@Github:~$ cat located_at.txt
 East Lansing, MI, USA
