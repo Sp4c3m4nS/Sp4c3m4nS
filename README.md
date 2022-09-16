@@ -4,8 +4,11 @@
 </a>
 <a href="https://app.hackthebox.com/profile/157096">
   <img alt="felipe's HackTheBox" width="50px" src="https://user-images.githubusercontent.com/95195316/190579332-71293926-20fd-48e4-b6ff-96c68ac1e724.svg"/>
+</a>
+<a href="https://app.hackthebox.com/profile/157096">
+  <img alt="felipe's HackTheBox" width="50px" src="https://user-images.githubusercontent.com/95195316/190580068-ddd1469e-700e-436d-9bce-cd59878195a1.png"/>
 </a>  
-
+  
 </p>
 
 ````console
