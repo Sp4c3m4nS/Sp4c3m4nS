@@ -48,4 +48,4 @@ Developing a great community at the **Spartan State Security Team** as the Chair
 ### ⚙️ Contact Me
 Let's chat about **Pentesting, Network Security, and any related topic**, maybe we can do something together!
 Email me at **marques6@msu.edu**<br/>
-Check my **[Linkedin](https://www.linkedin.com/in/felipe-marques-allevato-250549220/)**
+Reach me out in Discord: **Kitsune#3825**
