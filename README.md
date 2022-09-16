@@ -37,7 +37,7 @@ Felipe@Github:~/interests_and_skills$ perl Hobbies.pl
 ["Competitive Gaming", "CTFs", "Hackathons", "Tabletop RPGs"]
 ````
 
-### ⚙️ My Most Recent Project
+### ⚙️ My Most Recent Projects
 
 I won the "Microsoft Cloud for Best Social Impact" award at ShellHacks 2022 with the **[The AI Clinic](https://github.com/Y0uk1tsun3/diagnosis_app)**
 
