@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://user-images.githubusercontent.com/95195316/190578595-42c55eb7-375c-4e14-84d4-2dce3d8010ec.png">
-  <img alt="felipe's LinkdeIN" width="50px" src="" />
+<a href="https://www.linkedin.com/in/felipe-marques-allevato-250549220/">
+  <img alt="felipe's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/95195316/190578595-42c55eb7-375c-4e14-84d4-2dce3d8010ec.png" />
 </a>
 </p>
 
