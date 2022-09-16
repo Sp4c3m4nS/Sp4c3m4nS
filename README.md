@@ -34,7 +34,7 @@ drwxrwxrwx 1 Felipe Felipe 11234 Feb  1  2021 Side-Channel Analysis
 drwxr-xr-x 1 Felipe Felipe 13241 Apr  3  2017 Forensics
 -rwxr-xr-x 1 Felipe Felipe  9832 Jan  5 15:45 Embedded Systems
 -rwxr-xr-x 1 Felipe Felipe  7214 Jan  8 16:12 Mobile Security
--rwxr-xr-x 1 Felipe Felipe     1 Jul 13  2003 Hobbies.pl
+-rwxr-xr-x 1 Felipe Felipe     1 Jul 13  2003 hobbies.py
 Felipe@Github:~/interests_and_skills$ python3 ./hobbies.py
 ["Competitive Gaming", "CTFs", "Hackathons", "Tabletop RPGs"]
 ````
