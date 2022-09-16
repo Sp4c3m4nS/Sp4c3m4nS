@@ -1,5 +1,5 @@
 <h1 align="center">Hey! My name is Felipe 👾</h1>
-<h3 align="center">I'm a curious lover of Cybersecurity</h3>
+<h2 align="center">I'm a curious lover of Cybersecurity</h2>
 
 ### ⚙️ My Most Recent Project
 
