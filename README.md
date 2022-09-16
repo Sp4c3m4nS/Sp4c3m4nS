@@ -1,9 +1,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/felipe-marques-allevato-250549220/">
-  <img alt="felipe's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/95195316/190579332-71293926-20fd-48e4-b6ff-96c68ac1e724.svg"/>
+  <img alt="felipe's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/95195316/190579476-ffd552da-ba9a-4695-adcd-ac900ea2c358.png"/>
 </a>
 <a href="https://app.hackthebox.com/profile/157096">
-  <img alt="felipe's HackTheBox" width="50px" src="https://user-images.githubusercontent.com/95195316/190578862-6bb1756d-816f-44db-b464-8dea51100692.jpg"/>
+  <img alt="felipe's HackTheBox" width="50px" src="https://user-images.githubusercontent.com/95195316/190579332-71293926-20fd-48e4-b6ff-96c68ac1e724.svg"/>
 </a>  
 
 </p>
