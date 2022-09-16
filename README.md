@@ -46,6 +46,6 @@ Learning **DoS exploitation in Mobile Systems** in the **[SNMS Lab](https://www.
 Developing a great community at the **Spartan State Security Team** as the Chairman of the club
 
 ### ⚙️ Contact Me
-Let's chat about **Pentesting, Network Security, and any related topic**, maybe we can do something together!
+Let's chat about **Pentesting, Network Security, and any related topic**, maybe we can do something together!<br/>
 Email me at **marques6@msu.edu**<br/>
 Reach me out in Discord: **Kitsune#3825**
