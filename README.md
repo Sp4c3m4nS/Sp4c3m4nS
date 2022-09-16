@@ -1,5 +1,5 @@
 ````shell
-Felipe@Github:~$ whoami
+Felipe@Github:~ (main) $ whoami
 Felipe
 Felipe@Github:~$ cat located_at.txt
 East Lansing, MI, USA
