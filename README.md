@@ -38,14 +38,16 @@ drwxr-xr-x 1 Felipe Felipe 13241 Apr  3  2017 Forensics
 Felipe@Github:~/interests_and_skills$ perl Hobbies.pl
 ["Competitive Gaming", "CTFs", "Hackathons", "Tabletop RPGs"]
 ````
+### ⚙️ 
 
 ### ⚙️ My Most Recent Projects
 
 I won the "Microsoft Cloud for Best Social Impact" award at ShellHacks 2022 with the **[The AI Clinic](https://github.com/Y0uk1tsun3/diagnosis_app)**
 
 ### ⚙️ What I'm Currently Doing
-Learning **DoS exploitation in Mobile Systems** in the **[SNMS Lab](https://www.cse.msu.edu/~ghtu/research-projects.html)** at MSU<br/>
+Researching **DoS exploitation in Mobile Systems** in the **[SNMS Lab](https://www.cse.msu.edu/~ghtu/research-projects.html)**<br/>
 Developing a great community at the **Spartan State Security Team** as the Chairman of the club
+Creating projects integrating AI and Security in the **[MSU AI Club](https://www.msuaiclub.com/)**<br/>
 
 ### ⚙️ Contact Me
 Let's chat about **Pentesting, Network Security, and any related topic**, maybe we can do something together!<br/>
