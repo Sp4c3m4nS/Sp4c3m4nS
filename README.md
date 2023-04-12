@@ -45,7 +45,7 @@ I won the "Microsoft Cloud for Best Social Impact" award at ShellHacks 2022 with
 
 ### ⚙️ What I'm Currently Doing
 Researching **DoS exploitation in Mobile Systems** in the **[SNMS Lab](https://www.cse.msu.edu/~ghtu/research-projects.html)**<br/>
-Developing a great community at the **Spartan State Security Team** as the Chairman of the club<br/>
+Developing a great community at the **Spartan Cybersecurity Club** as the Chairman of the club<br/>
 Creating projects integrating AI and Security in the **[MSU AI Club](https://www.msuaiclub.com/)**<br/>
 
 ### ⚙️ Contact Me
