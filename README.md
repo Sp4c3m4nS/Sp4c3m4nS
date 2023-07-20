@@ -44,11 +44,11 @@ Felipe@Github:~/interests_and_skills$ python3 ./hobbies.py
 I won the "Microsoft Cloud for Best Social Impact" award at ShellHacks 2022 with the **[The AI Clinic](https://github.com/Y0uk1tsun3/diagnosis_app)**
 
 ### ⚙️ What I'm Currently Doing
+Working as a **Security Analyst Intern** integrating **AI and Cloud Security** at **Microsoft**<br/>
 Researching **DoS exploitation in Mobile Systems** in the **[SNMS Lab](https://www.cse.msu.edu/~ghtu/research-projects.html)**<br/>
 Developing a great community at the **Spartan Cybersecurity Club** as the Chairman of the club<br/>
-Creating projects integrating AI and Security in the **[MSU AI Club](https://www.msuaiclub.com/)**<br/>
 
 ### ⚙️ Contact Me
 Let's chat about **Pentesting, Network Security, and any related topic**, maybe we can do something together!<br/>
 Email me at **marques6@msu.edu**<br/>
-Reach me out in Discord: **Sp4c3m4n#3825**
+Reach me out in Discord: **sp4c3m4n**
